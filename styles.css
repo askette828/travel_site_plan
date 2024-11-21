@@ -1,4 +1,4 @@
-/* General Reset */
+
 body {
     margin: 0;
     padding: 0;
@@ -74,33 +74,7 @@ main ul li {
     border: 2px solid #f4a261;
     border-radius: 8px;
     background-color: #f4f4f4;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     width: 150px;
-}
-
-.box.home {
-    background-color: #f4a261;
-    color: white;
-}
-
-.box.about {
-    background-color: #e76f51;
-    color: white;
-}
-
-.box.destinations {
-    background-color: #2a9d8f;
-    color: white;
-}
-
-.box.gallery {
-    background-color: #264653;
-    color: white;
-}
-
-.box.contact {
-    background-color: #e9c46a;
-    color: white;
 }
 
 /* Wireframe */
@@ -120,20 +94,5 @@ main ul li {
     background-color: #333;
     color: white;
     padding: 10px;
-    text-align: center;
-    width: 100%;
-    border-radius: 5px;
-}
+    text-align
 
-.wireframe-main {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    width: 100%;
-}
-
-.wireframe-hero {
-    background-color: #f4a261;
-    color: white;
-    padding: 
-}
